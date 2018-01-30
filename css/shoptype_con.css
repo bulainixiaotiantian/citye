@@ -1,0 +1,33 @@
+
+@charset "utf-8";
+
+.main.shop_type_con .shops_title{
+	width: 100%;
+}
+.main.shop_type_con .shops_type li img{
+	width:1.22rem;
+	height:1.21rem;
+}
+.main.shop_type_con .shops_type li{
+	width:1.22rem;
+	margin:0 0.32rem 0.11rem;
+	padding: 0;
+    line-height: 0.3rem;
+}
+.main.shop_type_con .shops_type ul{
+	padding: 0;
+}
+
+
+.main.shop_type_con .shops_list {
+	width:6.9rem;
+}
+.main.shop_type_con .shops_message {
+	width:3.9rem;
+}
+.main.shop_type_con .location{
+	text-align: right;
+	padding-left: 0.7rem;
+	background-position: 0.49rem 1px;
+
+}
